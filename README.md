@@ -1,4 +1,5 @@
 Online Voting System
+
 This C++ program implements an online voting system using a Binary Search Tree (BST) to manage candidates and their votes. The system allows users to:
 
 Add candidates
