@@ -1,7 +1,11 @@
 Course: CS221-Lab
+
 University: Ghulam Ishaq khan Institute
+
 Instructor name: Usama Arshad 
+
 Group: Saad Hassan, Ahmed, Abdul Rehman Khan
+
 
 Online Voting System
 
