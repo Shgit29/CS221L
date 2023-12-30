@@ -1,3 +1,8 @@
+Course: CS221-Lab
+University: Ghulam Ishaq khan Institute
+Instructor name: Usama Arshad 
+Group: Saad Hassan, Ahmed, Abdul Rehman Khan
+
 Online Voting System
 
 This C++ program implements an online voting system using a Binary Search Tree (BST) to manage candidates and their votes. The system allows users to:
